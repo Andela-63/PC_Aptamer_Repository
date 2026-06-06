@@ -1,7 +1,7 @@
 # ML-Enhanced Screened Coulomb Interaction Approach for PC-Targeting Aptamer Design
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab)](https://colab.research.google.com/github/AbuHuwaizAlRashidi/PC-Aptamer-ML-Pipeline/blob/main/notebooks/PC_Aptamer_Pipeline.ipynb)
+[![Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab)](https://colab.research.google.com/github/Kolawole_Sherifdeen_kehinde/PC-Aptamer-ML-Pipeline/blob/main/notebooks/PC_Aptamer_Pipeline.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6615--0664-brightgreen?logo=orcid)](https://orcid.org/0000-0002-6615-0664)
@@ -12,7 +12,7 @@
 
 This repository contains the **complete open-source Python pipeline** accompanying the manuscript:
 
-> **Al-Rashidi A.** *Machine Learning-Enhanced Screened Coulomb Interaction Approach for Predictive Design and Optimization of Phosphatidylcholine-Targeting Aptamers: A Fully Open-Source Computational Pipeline with Experimental Validation Roadmap.* (2026). Submitted.
+> **Kolawole Sherifdeen Kehinde.** *Machine Learning-Enhanced Screened Coulomb Interaction Approach for Predictive Design and Optimization of Phosphatidylcholine-Targeting Aptamers: A Fully Open-Source Computational Pipeline with Experimental Validation Roadmap.* (2026). Submitted.
 
 ### What this pipeline does
 
@@ -77,7 +77,7 @@ PC-Aptamer-ML-Pipeline/
 
 Click the badge:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbuHuwaizAlRashidi/PC-Aptamer-ML-Pipeline/blob/main/notebooks/PC_Aptamer_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//PC-Aptamer-ML-Pipeline/blob/main/notebooks/PC_Aptamer_Pipeline.ipynb)
 
 All dependencies install automatically in the first cell.
 
@@ -85,7 +85,7 @@ All dependencies install automatically in the first cell.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AbuHuwaizAlRashidi/PC-Aptamer-ML-Pipeline.git
+git clone https://github.com/Kolawole Sherifdeen Kehinde/PC-Aptamer-ML-Pipeline.git
 cd PC-Aptamer-ML-Pipeline
 
 # 2. Create a virtual environment (recommended)
@@ -130,15 +130,15 @@ Top 10 novel candidates from the ML screening, ready for experimental follow-up.
 If you use this pipeline in your research, please cite:
 
 ```bibtex
-@article{alrashidi2026,
-  author    = {Al-Rashidi, AbuHuwaiz},
-  title     = {Machine Learning-Enhanced Screened Coulomb Interaction Approach
+@article{KolawoleSherifdeen2026,
+  author    = {Sherifdee Kehinde, Kolawole},
+  title     = {Machine Learning-Enhanced Scereened Coulomb Interaction Approach
                for Predictive Design and Optimization of Phosphatidylcholine-Targeting
                Aptamers: A Fully Open-Source Computational Pipeline with
                Experimental Validation Roadmap},
   journal   = {[Journal name upon acceptance]},
   year      = {2026},
-  doi       = {10.5281/zenodo.XXXXXXX},
+  doi       = {10.5281/zenodo},
   orcid     = {0000-0002-6615-0664}
 }
 ```
@@ -166,10 +166,10 @@ You are free to use, modify, and distribute this code with attribution.
 
 ## Author
 
-**AbuHuwaiz Al-Rashidi**  
+**Kolawole Sherifdeen Kehinde**  
 Department of Computational Biology and Drug Design  
 King Saud University, Riyadh, Saudi Arabia  
-📧 a.alrashidi@ksu.edu.sa  
+📧 Kolawolesherifdeen63@gmail.com  
 🔗 ORCID: [0000-0002-6615-0664](https://orcid.org/0000-0002-6615-0664)
 
 ---
